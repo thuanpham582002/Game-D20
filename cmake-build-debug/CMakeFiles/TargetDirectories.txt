@@ -1,0 +1,3 @@
+C:/Users/01655/CLionProjects/GameD20 - Copy/cmake-build-debug/CMakeFiles/GameD20.dir
+C:/Users/01655/CLionProjects/GameD20 - Copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/01655/CLionProjects/GameD20 - Copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
